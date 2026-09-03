@@ -95,13 +95,13 @@ More projects, edits and visual work will be added as I continue building.
 ## 🌐 Portfolio
 
 **Live Portfolio:**  
-[Visit my portfolio](https://harshgavit25-sketch.github.io/My-Porfolio/)
+[Visit my portfolio](https://harshgavit25-sketch.github.io/Editor_Porfolio/)
 
 ---
 
 ## 📫 Connect With Me
 
-**Instagram:** [@sharvith_07_](https://www.instagram.com/sharvith_07_/)
+**Instagram:** [@sharvith_07](https://www.instagram.com/sharvith_07/)
 
 **YouTube:** [Sharvith](https://www.youtube.com/)
 
